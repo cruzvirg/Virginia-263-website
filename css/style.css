@@ -1,0 +1,40 @@
+/* style.css */
+
+/* Style the body */
+body {
+    font-family: sans-serif;
+    margin: 1.25rem; /* 20px converted to rem */
+}
+
+/* Style the header */
+header {
+    background-color: #007bff; /* Blue color */
+    padding: 0.625rem; /* 10px converted to rem */
+    text-align: center;
+}
+
+/* Style the navigation */
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+/* Style h1 and h2 elements */
+h1, h2 {
+    color: green;
+}
+
+/* Style the image on the home page */
+#home img {
+    display: block;
+    margin: 1.25rem; /* 20px converted to rem */
+}
+
+/* Style the horizontal rule (hr) */
+hr {
+    border: 0;
+    height: 0.0625rem; /* 1px converted to rem */
+    background-color: orange;
+    margin: 1.25rem 0; /* 20px converted to rem */
+}
+
